@@ -49,6 +49,6 @@
 			</props>
 		</property>
 	</bean>
-	
+	<bean id="helloId" class="org.arpit.java2blog.springmvc.controller.HelloWorldController"></bean>
 </beans>
 

@@ -96,7 +96,7 @@ public class HelloWorldController {
 					e.printStackTrace();
 				}
 			}
-
+			System.out.println("User Successfully Logout");
 			httpServletResponse.setStatus(HttpServletResponse.SC_OK);
 			// redirect to login
 			// httpServletResponse.sendRedirect("/login");
