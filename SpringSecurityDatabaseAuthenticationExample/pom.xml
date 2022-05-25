@@ -121,7 +121,7 @@
 	<properties>
 		<!-- <spring.version>4.1.6.RELEASE</spring.version> -->
 		<spring.version>4.2.1.RELEASE</spring.version>
-		<security.version>4.0.3.RELEASE</security.version>
+		<security.version>5.5.7</security.version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
 		<jdk.version>1.7</jdk.version>
 	</properties>
